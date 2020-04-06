@@ -29,7 +29,7 @@
         "enmap": "^5.2.4",
         "moment": "^2.24.0",
         "moment-duration-format": "^2.3.2",
-        "util": "^0.12.1"
+        "util": "^0.12.2"
     },
     "devDependencies": {
         "jshint": "^2.11.0"
